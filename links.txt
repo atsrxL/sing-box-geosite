@@ -2,7 +2,7 @@ https://raw.githubusercontent.com/atsrxL/List/main/Intranet.list
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Direct/Direct.list
 
-
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Google/Google.list
 
 https://ruleset.skk.moe/List/domainset/reject.conf
 https://ruleset.skk.moe/List/non_ip/reject.conf
