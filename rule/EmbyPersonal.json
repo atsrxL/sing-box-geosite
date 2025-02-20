@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "misakaf.org"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "misakaf"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "aca.best",
+        "as174.com",
+        "as174.de",
+        "bili.rip"
+      ]
+    }
+  ],
+  "version": 2
+}
