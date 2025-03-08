@@ -64,11 +64,14 @@
     },
     {
       "domain_keyword": [
+        "-adrevenue.appsflyersdk.com",
         "-attr.appsflyersdk.com",
         "-launches.appsflyersdk.com",
         "-logging.nextmedia.com",
+        "-pia.appsflyersdk.com",
         "-rtb.gravite.net",
         "-s2s.sensic.net",
+        "-skadsdkless.appsflyersdk.com",
         "-spiky.clevertap-prod.com",
         "-tracker.biliapi.net",
         "-txtagstore",
