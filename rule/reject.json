@@ -66,6 +66,7 @@
     {
       "domain_keyword": [
         "-adrevenue.appsflyersdk.com",
+        "-analytics-events.apple.com",
         "-attr.appsflyersdk.com",
         "-launches.appsflyersdk.com",
         "-logging.nextmedia.com",
@@ -129,6 +130,10 @@
         "track.msadcenter",
         "track.opentable.",
         "track.tiara",
+        "trkcmb.business.hsbc.",
+        "trkgbm.business.hsbc.",
+        "trkhinv.business.hsbc.",
+        "trksvg.business.hsbc.",
         "umeng",
         "wxsnsdy",
         "zymerget"
